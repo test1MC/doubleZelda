@@ -1,52 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject
-  Version="1"
-  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
-  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-  MasterStylesheetOverride="True"
-  xml:lang="en-us"
-  SourceControlBound="false"
-  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
-  IncludePattern="*.htm;*.html"
-  AutoExcludeNonTaggedFiles="false"
-  IncludeLinkedFiles="true"
-  DeleteStale="false"
-  DeleteUnreferenced="false"
-  AutoSync="true"
-  LastImport="2019-03-27T16:37:53.9975521-07:00">
-  <Files>
-    <Url
-      Source="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/ielichTest.flprj"
-      AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/ielichTest.flprj" />
-  </Files>
-  <ExcludedFiles />
-  <CollectedSourceFiles>
-    <Url
-      Source="../ielichTest/Content/doggo.htm"
-      AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/Content/doggo.htm" />
-    <Url
-      Source="../ielichTest/Content/globaltopic.htm"
-      AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/Content/globaltopic.htm" />
-    <Url
-      Source="../ielichTest/Content/Resources/Images/Small-Doggo.jpg"
-      AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/Content/Resources/Images/Small-Doggo.jpg" />
-    <Url
-      Source="../ielichTest/Content/Resources/Stylesheets/Modernish.css"
-      AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/Content/Resources/Stylesheets/Modernish.css" />
-  </CollectedSourceFiles>
-  <SkippedSourceFiles />
-  <GeneratedFiles>
-    <Url
-      Source="Content/doggo.htm"
-      TimeStamp="3/27/2019 12:31:28 PM" />
-    <Url
-      Source="Content/globaltopic.htm"
-      TimeStamp="3/27/2019 1:23:26 PM" />
-    <Url
-      Source="Content/Resources/Images/Small-Doggo.jpg"
-      TimeStamp="2/1/2019 1:54:56 PM" />
-    <Url
-      Source="Content/Resources/Stylesheets/Modernish.css"
-      TimeStamp="6/13/2018 1:07:24 AM" />
-  </GeneratedFiles>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.htm;*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="true" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" LastImport="2019-03-27T16:37:53.9975521-07:00" SourceControlProviderType="Git" ProjectGuid="0f6d2350-13fb-4074-8269-b6b205b968fd">
+    <Files>
+        <Url Source="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/ielichTest.flprj" AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/ielichTest.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../../../ielichTest/Content/doggo.htm" AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/Content/doggo.htm" />
+        <Url Source="../../../ielichTest/Content/globaltopic.htm" AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/Content/globaltopic.htm" />
+        <Url Source="../../../ielichTest/Content/Resources/Images/Small-Doggo.jpg" AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/Content/Resources/Images/Small-Doggo.jpg" />
+        <Url Source="../../../ielichTest/Content/Resources/Stylesheets/Modernish.css" AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Projects/ielichTest/Content/Resources/Stylesheets/Modernish.css" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/doggo.htm" TimeStamp="3/27/2019 12:31:28 PM" />
+        <Url Source="../../Content/globaltopic.htm" TimeStamp="3/27/2019 1:23:26 PM" />
+        <Url Source="../../Content/Resources/Images/Small-Doggo.jpg" TimeStamp="2/1/2019 1:54:56 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/Modernish.css" TimeStamp="6/13/2018 1:07:24 AM" />
+    </GeneratedFiles>
 </CatapultProject>
